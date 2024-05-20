@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Camisa azul 1",
+    "price": 40,
+    "image": "https://iili.io/JiHqiW7.jpg",
+    "bigDescription": "A camisa azul do Ampare combina elegância e responsabilidade social. Feita com materiais premium, oferece conforto e durabilidade. Cada compra ajuda a financiar nossos projetos sociais e ambientais.",
+    "smallDescription": "Camisa azul elegante e confortável. Apoie os projetos sociais do Ampare."
+  },
+  {
+    "id": 2,
+    "name": "Kit Camisa",
+    "price": 80,
+    "image": "https://iili.io/JiHAUEQ.jpg",
+    "bigDescription": "O Kit Camisa é uma combinação de estilo e apoio social. Inclui camisas exclusivas do Ampare, perfeitas para qualquer ocasião. Parte do valor arrecadado é destinado às nossas iniciativas de ajuda e doações.",
+    "smallDescription": "Kit com camisas exclusivas. Apoie as iniciativas sociais do Ampare."
+  },
+  {
+    "id": 3,
+    "name": "Ecobag",
+    "price": 50,
+    "image": "https://iili.io/JiHBqdJ.jpg",
+    "bigDescription": "Nossa ecobag é uma escolha prática e sustentável para suas compras e atividades diárias. Feita de materiais ecológicos, é resistente e estilosa, promovendo a causa ambiental. Parte da venda é revertida para as iniciativas do Ampare.",
+    "smallDescription": "Ecobag resistente e estilosa. Perfeita para compras sustentáveis."
+  },
+  {
+    "id": 4,
+    "name": "Camisa branca 1",
+    "price": 40,
+    "image": "https://iili.io/JiHqtUb.jpg",
+    "bigDescription": "Vista-se com estilo e propósito com a camisa branca do Ampare. Confeccionada em tecido de alta qualidade, é confortável e perfeita para qualquer ocasião. Compre agora e apoie as nossas ações beneficentes.",
+    "smallDescription": "Camisa branca confortável e de alta qualidade. Apoie as ações do Ampare."
+  },
+  {
+    "id": 5,
+    "name": "Garrafa",
+    "price": 20,
+    "image": "https://iili.io/JiHqrOl.jpg",
+    "bigDescription": "Nossa garrafa reutilizável é a companheira ideal para o seu dia a dia. Feita de material resistente e de alta qualidade, mantém suas bebidas na temperatura ideal por mais tempo. Elegante e prática, ela ajuda a reduzir o uso de plástico descartável, promovendo um estilo de vida mais sustentável. Adquira a sua e apoie as iniciativas do Ampare, contribuindo para um mundo melhor.",
+    "smallDescription": "Garrafa reutilizável, resistente e sustentável. Ideal para manter bebidas na temperatura certa."
+  },
+
+  {
+    "id": 6,
+    "name": "Camisa branca 2",
+    "price": 45,
+    "image": "https://iili.io/JiHBEL7.jpg",
+    "bigDescription": "Leve consigo a mensagem de solidariedade do Ampare com a nossa camisa branca. Feita para durar, é uma peça versátil para o seu guarda-roupa. Contribua para um mundo melhor ao adquirir este produto.",
+    "smallDescription": "Camisa branca versátil e durável. Contribua para um mundo melhor."
+  },
+  {
+    "id": 7,
+    "name": "Camisa azul 2",
+    "price": 45,
+    "image": "https://iili.io/JiHBxzN.jpg",
+    "bigDescription": "Nossa camisa azul é sinônimo de elegância e compromisso com a causa. Fabricada com tecidos de alta qualidade, oferece um caimento perfeito. Ao comprar esta camisa, você ajuda o Ampare a continuar suas ações solidárias.",
+    "smallDescription": "Camisa azul elegante e de alta qualidade. Apoie o Ampare."
+  },
+  {
+    "id": 8,
+    "name": "Kit Ampare",
+    "price": 100,
+    "image": "https://iili.io/JiHBae4.jpg",
+    "bigDescription": "O Kit Ampare é ideal para quem quer contribuir e levar um pouco do Ampare consigo. Contém itens essenciais e exclusivos, projetados para o dia a dia. Ao adquirir este kit, você apoia diretamente as ações solidárias do grupo.",
+    "smallDescription": "Kit exclusivo com itens essenciais. Apoie as ações solidárias do Ampare."
+  }
+]
