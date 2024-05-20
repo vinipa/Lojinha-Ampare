@@ -5,3 +5,5 @@ Esse é um projeto onde foi desenvolvida uma lojinha completa, com todas as func
 Para rodar o projeto é necessário apenas clonar o repositório, e no terminal executar: 
 -pnpm i
 -pnpm dev
+
+Também é possível rodar o aplicativo através desse link: https://lojinha-ampare.vercel.app/
